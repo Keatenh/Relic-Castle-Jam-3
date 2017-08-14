@@ -1,0 +1,13 @@
+﻿[0]
+Filename=mapRegion0.png
+Name="Isla Manganesa"
+Point=14,6,"Rojiza Town","Isla Central Pokémon Lab",32,17,17,
+Point=14,7,"Route Gamma-4","Central Desert",,,,
+Point=14,8,"Route Gamma-4","Central Desert",,,,
+Point=15,8,"Route Gamma-4","Camp Entrance",,,,
+Point=16,8,"Camp Molino","Water Purification Plant",78,40,32,
+Point=16,9,"Route Sigma-5",,,,,
+Point=16,10,"Route Sigma-5",,,,,
+Point=15,10,"Route Sigma-5",,,,,
+Point=14,10,"Route Sigma-5",,,,,
+Point=14,12,"Quepelar Beach",,,,,

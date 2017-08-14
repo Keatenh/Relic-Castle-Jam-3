@@ -1,0 +1,22 @@
+---------------------------
+Pokemon Essentials Gen 6
+---------------------------
+Exception: TypeError
+Message: cannot convert nil into String
+PSystem_Utilities:1116:in `size'
+PSystem_Utilities:1116:in `pbLoadPokemonBitmapSpecies'
+PSystem_Utilities:1087:in `pbLoadPokemonBitmap'
+PokeBattle_Scene:514:in `setPokemonBitmap'
+PokeBattle_Scene:2179:in `pbStartBattle'
+PokeBattle_Battle:2630:in `pbStartBattleCore'
+PokeBattle_Battle:2603:in `pbStartBattle'
+PField_Field:1015:in `pbWildBattle'
+PField_Field:1014:in `pbSceneStandby'
+PField_Field:1016:in `pbWildBattle'
+
+This exception was logged in 
+C:\Users\Keaten\Saved Games/Pokemon Essentials Gen 6/errorlog.txt.
+Press Ctrl+C to copy this message to the clipboard.
+---------------------------
+OK   
+---------------------------

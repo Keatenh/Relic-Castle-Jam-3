@@ -1,0 +1,22 @@
+---------------------------
+RC Jam 3
+---------------------------
+Exception: NoMethodError
+Message: undefined method `>' for nil:NilClass
+RPG__Sprite:123:in `effect?'
+RPG__Sprite:434:in `effect?'
+RPG__Sprite:433:in `each'
+RPG__Sprite:433:in `effect?'
+AnimationSprite:31:in `update'
+AnimationSprite:88:in `follower_update'
+AnimationSprite:87:in `each'
+AnimationSprite:87:in `follower_update'
+Follow Pokemon:1774:in `update'
+Scene_Map:51:in `updateSpritesets'
+
+This exception was logged in 
+C:\Users\Keaten\Saved Games/RC Jam 3/errorlog.txt.
+Press Ctrl+C to copy this message to the clipboard.
+---------------------------
+OK   
+---------------------------

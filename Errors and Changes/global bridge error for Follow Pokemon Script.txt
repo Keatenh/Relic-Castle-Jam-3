@@ -1,0 +1,38 @@
+---------------------------
+RC Jam 3
+---------------------------
+Exception: RuntimeError
+Message: Script error within event 6, map 32 (Rojiza Town):
+Exception: NoMethodError
+Message: Section178:1274:in `pbFollowEventAcrossMaps'undefined method `bridge' for #<PokemonGlobalMetadata:0xbe8b830>
+***Full script:
+pbPokemonFollow(5)
+
+Interpreter:243:in `pbExecuteScript'
+Follow Pokemon:1268:in `each'
+Follow Pokemon:1268:in `pbFollowEventAcrossMaps'
+PField_DependentEvents:359:in `pbMoveDependentEvents'
+PField_DependentEvents:357:in `each'
+PField_DependentEvents:357:in `pbMoveDependentEvents'
+Follow Pokemon:762:in `Come_back'
+Follow Pokemon:1222:in `pbPokemonFollow'
+(eval):1:in `pbExecuteScript'
+Interpreter:1606:in `eval'
+
+Interpreter:276:in `pbExecuteScript'
+Interpreter:1606:in `command_355'
+Interpreter:494:in `execute_command'
+Interpreter:193:in `update'
+Interpreter:106:in `loop'
+Interpreter:198:in `update'
+Scene_Map:103:in `follow_update'
+Scene_Map:101:in `loop'
+Scene_Map:114:in `follow_update'
+Follow Pokemon:1551:in `update'
+
+This exception was logged in 
+C:\Users\Keaten\Saved Games/RC Jam 3/errorlog.txt.
+Press Ctrl+C to copy this message to the clipboard.
+---------------------------
+OK   
+---------------------------
